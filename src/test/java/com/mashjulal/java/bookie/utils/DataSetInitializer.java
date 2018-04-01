@@ -1,7 +1,6 @@
 package com.mashjulal.java.bookie.utils;
 
 import com.mashjulal.java.bookie.model.*;
-import lombok.Data;
 
 import java.util.*;
 

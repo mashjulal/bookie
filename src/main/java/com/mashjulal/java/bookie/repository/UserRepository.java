@@ -1,11 +1,9 @@
 package com.mashjulal.java.bookie.repository;
 
-import com.mashjulal.java.bookie.model.Book;
 import com.mashjulal.java.bookie.model.User;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;
-import org.springframework.security.core.parameters.P;
 
 import javax.transaction.Transactional;
 import java.util.List;
